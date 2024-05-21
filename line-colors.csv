@@ -28,6 +28,7 @@ db-regio-bayern,RE 20,db-regio-ag-bayern,re-20,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 28,db-regio-ag-bayern,re-28,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 29,db-regio-ag-bayern,re-29,#ffffff,#ff6600,#ff6600,rectangle
 db-regio-bayern,RE 60,db-regio-ag-bayern,re-60,#ffffff,#800080,#800080,rectangle
+db-regio-bw,RE 7,db-regio-ag-baden-wurttemberg,re-7,#f06c10,#ffffff,,pill
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
