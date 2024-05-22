@@ -58,6 +58,20 @@
             }
         ]
     },
+        {
+        "shortOperatorName": "db-regio-bw",
+        "contributors": [
+            {
+                "github": "DieKloburste"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Baustelleninfo Juni 2024",
+                "source": "https://bauinfos.deutschebahn.com/pdf/RB26BW-34100-23692-20231117.pdf"
+            }
+        ]
+    },
     {
         "shortOperatorName": "db-regio-mitte",
         "contributors": [
